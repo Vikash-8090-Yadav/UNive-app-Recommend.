@@ -7,7 +7,7 @@ from typing import List
 
 
 # Load your OpenAI API key
-OpenAI.api_key = "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"
+OpenAI.api_key = ""
 
 # Prompt for GPT-3.5 Turbo
 SYSTEM_PROMPT = """You are chatting with an AI. There are no specific prefixes for responses, so you can ask or talk about anything you like.
