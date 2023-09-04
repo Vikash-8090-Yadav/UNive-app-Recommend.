@@ -1,7 +1,7 @@
 
 # UNive-app-Recommend.📚
 
-### Welcome to UniRec and PlayGuide, your one-stop solution for university recommendations and Google Play Store app suggestions. We've harnessed the power of user input and a Kaggle dataset to create a user-friendly and efficient platform that helps you discover the right university programs and exciting mobile apps. With innovative content generation, a multilingual chatbot, top-quality recommendations, and the ability for users to contribute their insights, we're revolutionizing how you access educational and app-related information. Join us on a journey to make learning and app discovery more accessible and efficient, transcending linguistic boundaries.
+### Welcome to UNive and PlayGuide, your one-stop solution for university recommendations and Google Play Store app suggestions. I've harnessed the power of user input and a Kaggle dataset to create a user-friendly and efficient platform that helps you discover the right university programs and exciting mobile apps. With innovative content generation, a multilingual chatbot, top-quality recommendations, and the ability for users to contribute their insights, we're revolutionizing how you access educational and app-related information. Join me on a journey to make learning and app discovery more accessible and efficient, transcending linguistic boundaries.
 
 <div align="center">
  
